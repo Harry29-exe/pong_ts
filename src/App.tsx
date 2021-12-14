@@ -2,6 +2,9 @@ import React, {useEffect, useState} from 'react';
 import {Game} from "./logic/Game";
 import {Line} from "./logic/Line";
 
+//zdje sobie srawę ze tak się tego nie robi ale po 3.5h męczenia się z liczeniem
+// przecięć prostych i kątów odbicia i faktem że js to przepiękny język
+// nie mam siły żeby zrobić to normalnie
 const updateTime = 16.6
 let keys: string[] = []
 let pos = {p1: 100, p2: 100}
