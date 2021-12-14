@@ -54,6 +54,7 @@ function App() {
 
   return (
     <>
+      <h1>Użwaj w i s dla p1 oraz o i l dla p2</h1>
     <h1>P1:{p1}, P2: {p2}</h1>
     <div style={{width: 400, height: 300, position: "relative", left: 100, top: 100,
       border: "2px solid black"}}>
